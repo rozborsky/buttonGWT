@@ -8,7 +8,7 @@ import com.google.gwt.user.client.ui.Button;
 import com.google.gwt.user.client.ui.RootPanel;
 
 public class GWTbutton implements EntryPoint {
-
+	
 	private String []color = {"#FF9B9B", "#FFCD95", "#FFFFDF", "#BDFFDC", "#BDEAFF", "#9E9EFF", "#EAB6FF"};
 	private Button button = new Button("Change background");
 	private int i = 0;
